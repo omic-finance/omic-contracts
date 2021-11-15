@@ -3,3 +3,4 @@ artifacts/
 cache/
 scripts/
 hardhat.config.js
+.idea/
